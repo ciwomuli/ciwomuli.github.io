@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ciwomuli.github.io</id>
     <title>OI手册</title>
-    <updated>2020-02-03T07:06:01.902Z</updated>
+    <updated>2020-02-03T07:09:39.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ciwomuli.github.io"/>
     <link rel="self" href="https://ciwomuli.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://ciwomuli.github.io/images/avatar.png</logo>
     <icon>https://ciwomuli.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, OI手册</rights>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://ciwomuli.github.io/post/ce-shi</id>
+        <link href="https://ciwomuli.github.io/post/ce-shi">
+        </link>
+        <updated>2020-02-03T07:09:13.000Z</updated>
+        <content type="html"><![CDATA[<p>test<br>
+I will love wyt forever</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://ciwomuli.github.io/post/hello-gridea</id>
