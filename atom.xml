@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ciwomuli.github.io</id>
     <title>OI手册</title>
-    <updated>2020-02-04T05:17:25.228Z</updated>
+    <updated>2020-02-04T05:33:00.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ciwomuli.github.io"/>
     <link rel="self" href="https://ciwomuli.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://ciwomuli.github.io/images/avatar.png</logo>
     <icon>https://ciwomuli.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, OI手册</rights>
+    <entry>
+        <title type="html"><![CDATA[About]]></title>
+        <id>https://ciwomuli.github.io/post/about</id>
+        <link href="https://ciwomuli.github.io/post/about">
+        </link>
+        <updated>2020-02-04T05:32:15.000Z</updated>
+        <content type="html"><![CDATA[<p>by ciwomuli</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开始了新的博客]]></title>
         <id>https://ciwomuli.github.io/post/kai-shi-liao-xin-de-bo-ke</id>
