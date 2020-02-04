@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ciwomuli.github.io</id>
+    <id>https://oier.moe</id>
     <title>OI手册</title>
-    <updated>2020-02-04T05:33:00.769Z</updated>
+    <updated>2020-02-04T06:21:02.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ciwomuli.github.io"/>
-    <link rel="self" href="https://ciwomuli.github.io/atom.xml"/>
+    <link rel="alternate" href="https://oier.moe"/>
+    <link rel="self" href="https://oier.moe/atom.xml"/>
     <subtitle>迎接高考</subtitle>
-    <logo>https://ciwomuli.github.io/images/avatar.png</logo>
-    <icon>https://ciwomuli.github.io/favicon.ico</icon>
+    <logo>https://oier.moe/images/avatar.png</logo>
+    <icon>https://oier.moe/favicon.ico</icon>
     <rights>All rights reserved 2020, OI手册</rights>
     <entry>
         <title type="html"><![CDATA[About]]></title>
-        <id>https://ciwomuli.github.io/post/about</id>
-        <link href="https://ciwomuli.github.io/post/about">
+        <id>https://oier.moe/post/about</id>
+        <link href="https://oier.moe/post/about">
         </link>
         <updated>2020-02-04T05:32:15.000Z</updated>
         <content type="html"><![CDATA[<p>by ciwomuli</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[开始了新的博客]]></title>
-        <id>https://ciwomuli.github.io/post/kai-shi-liao-xin-de-bo-ke</id>
-        <link href="https://ciwomuli.github.io/post/kai-shi-liao-xin-de-bo-ke">
+        <id>https://oier.moe/post/kai-shi-liao-xin-de-bo-ke</id>
+        <link href="https://oier.moe/post/kai-shi-liao-xin-de-bo-ke">
         </link>
         <updated>2020-02-03T09:40:11.000Z</updated>
         <content type="html"><![CDATA[<p>现在使用Gridea作为我的博客编辑器。<br>
